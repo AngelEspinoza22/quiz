@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál de los siguientes pescados es azul?",
+      "answer1": "Merluza",
+      "answer2": "Bacalao",
+      "answer3": "Rape",
+      "answer4": "Salmón"
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál de los siguientes alimentos tiene un alto contenido en vitamina C?",
+      "answer1": "Pan integral",
+      "answer2": "Pimientos",
+      "answer3": "Pescado azul",
+      "answer4": "Aceite de oliva"
+    },
+    {
+      "id": 3,
+      "question": "¿Qué beneficios tienen los alimentos integrales?",
+      "answer1": "Son bajos en calorías",
+      "answer2": "Son bajos en azúcar",
+      "answer3": "Son bajos en sal",
+      "answer4": "Son ricos en fibra alimentaria"
+    }
+  ]
+}
